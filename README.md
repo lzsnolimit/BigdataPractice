@@ -1,12 +1,9 @@
-# JAX-RS Demo Application
+# JAX-RS , JDBC ,  JAXB 
 
-## Execute REST Demo
+## Execute Demo
 
 * execute edu.techseekers.training.server.Server.java
-    * go to browser and access http://localhost:9000/customerservice/customers/123
+    * go to browser and access http://localhost:9000/departmentsalary/salaryofdept/d002
+    * go to browser and access http://localhost:9000/departmentsalary/allsalaries
 * execute edu.techseekers.training.client.Client.java
 
-
-### References
-
-1 http://www.ibm.com/developerworks/library/ws-restful/

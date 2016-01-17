@@ -30,7 +30,6 @@ public class Server {
         sf.setResourceProvider(DepartmentSalary.class, 
             new SingletonResourceProvider(new DepartmentSalary()));
         sf.setAddress("http://localhost:9000/");
-
         sf.create();
     }
 
